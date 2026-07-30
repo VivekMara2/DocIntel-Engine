@@ -100,7 +100,6 @@ export DOCUMENTINTELLIGENCE_API_KEY="<your-api-key>"
 
 ---
 
-## 📚 Sample Catalog
 
 ### Common Models
 
