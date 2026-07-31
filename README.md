@@ -10,7 +10,7 @@ Welcome to **DocIntel Engine**! This project provides comprehensive code samples
 ## 👤 Project Owner & Maintainer
 
 * **Author:** **Vivek Reddy Mara**
-* **Email:** [Vivekmara92@gmail.com](mailto:Vivekmara92@gmail.com)
+* **Email:** [Vivekmara92@gmail.com](mailto:Vivekr5345@gmail.com)
 * **Phone:** (618) 803-9485
 * **LinkedIn:** [linkedin.com/in/vivek-r-7496371ab](https://www.linkedin.com/in/vivek-r-7496371ab)
 * **Author Details:** See [AUTHOR.md](AUTHOR.md)
@@ -150,5 +150,5 @@ export DOCUMENTINTELLIGENCE_API_KEY="<your-api-key>"
 
 ## 📜 Author & License
 
-* **Author:** **Vivek Reddy Mara** ([Vivekmara92@gmail.com](mailto:Vivekmara92@gmail.com))
+* **Author:** **Vivek Reddy Mara** ([Vivekr5345@gmail.com](mailto:Vivekr5345@gmail.com))
 * **License:** This project is licensed under the [MIT License](LICENSE.md) — Copyright (c) **Vivek Reddy Mara**.
