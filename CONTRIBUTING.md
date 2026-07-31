@@ -9,7 +9,7 @@ a CLA and decorate the PR appropriately (e.g., status check, comment). Simply fo
 provided by the bot. You will only need to do this once across all repos using our CLA.
 
 This project has adopted the Code of Conduct maintained by Vivek Reddy Mara.
-For more information see [AUTHOR.md](AUTHOR.md) or contact [Vivekmara92@gmail.com](mailto:Vivekmara92@gmail.com) with any additional questions or comments.
+For more information see [AUTHOR.md](AUTHOR.md) or contact [Vivekr5345@gmail.com](mailto:Vivekr5345@gmail.com) with any additional questions or comments.
 
  - [Code of Conduct](#coc)
  - [Issues and Bugs](#issue)
