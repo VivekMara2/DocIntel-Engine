@@ -10,7 +10,7 @@ Welcome to **DocIntel Engine**! This project provides comprehensive code samples
 ## 👤 Project Owner & Maintainer
 
 * **Author:** **Vivek Reddy Mara**
-* **Email:** [Vivekmara92@gmail.com](mailto:Vivekr5345@gmail.com)
+* **Email:** [vivekr5345@gmail.com](mailto:Vivekr5345@gmail.com)
 * **Phone:** (618) 803-9485
 * **LinkedIn:** [linkedin.com/in/vivek-r-7496371ab](https://www.linkedin.com/in/vivek-r-7496371ab)
 * **Author Details:** See [AUTHOR.md](AUTHOR.md)
